@@ -4,10 +4,15 @@
 
 * PowerShell commands let you manage computers from the command line. PowerShell providers let you access data stores, such as the registry and certificate store, as easily as you access the file system. PowerShell includes a rich expression parser and a fully developed scripting language.
 
+* The Basic syntax of powershell is **Verb-Noun**
+
 ## Contents
 - [Overview](overview.md)
 - [Building Blocks of Programming](building_blocks.md)
     - Variables
     - Operators
+        - Arithmetic
+        - String
     - TypeCasting
 - [Read Validate and Write](read_validate.md)
+- [Comparision Operators](comparisions.md)
