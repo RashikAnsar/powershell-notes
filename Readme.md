@@ -16,3 +16,9 @@
     - TypeCasting
 - [Read Validate and Write](read_validate.md)
 - [Comparision Operators](comparisions.md)
+- [If else, Loop and Switch](conditional.md)
+
+
+## References
+[Microsoft PowerSehll Resource](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-6)
+[PowerShell resource / CheatSheet](https://ss64.com/ps/)
