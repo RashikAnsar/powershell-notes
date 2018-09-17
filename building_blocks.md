@@ -1,8 +1,6 @@
 ## Building Blocks of Programming
 ### Variables
-* Variables are the names you give to computer memory locations which are used to store values in a computer program
-* PowerShell uses variables as temporary, named storage for Objects. __Variable names begin with `$` symbol__
-* Variables are objects, it is name of memory location, where objects are stored.
+* __Variable names begin with `$` symbol__
 
 ```powershell
 # Declaring and initializing the variable
