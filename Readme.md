@@ -16,7 +16,8 @@
     - TypeCasting
 - [Read Validate and Write](read_validate.md)
 - [Comparision Operators](comparisions.md)
-- [If else, Loop and Switch](conditional.md)
+- [If else and Switch](conditional.md)
+- [Collections](collections.md)
 
 
 ## References
