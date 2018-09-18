@@ -8,17 +8,13 @@
 
 ## Contents
 - [Overview](overview.md)
-- [Building Blocks of Programming](building_blocks.md)
-    - Variables
-    - Operators
-        - Arithmetic
-        - String
-    - TypeCasting
+- [Variables, Operators, TypeCasting](building_blocks.md)
 - [Read Validate and Write](read_validate.md)
 - [Comparision Operators](comparisions.md)
 - [If else and Switch](conditional.md)
 - [Collections](collections.md)
 - [Loops](loops.md)
+- [Functions](functions.md)
 
 ## References
 [Microsoft PowerSehll Resource](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-6)
