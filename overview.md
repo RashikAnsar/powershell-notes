@@ -15,6 +15,7 @@ in powershell
 ```powershell
 #To get help for any cmdlet in powershell 
 Get-Help Cmdlet
+Get-Help Cmdlet -ShowWindow
 
 # To show all the commands in a sepeare window
 Show-Command
@@ -71,3 +72,5 @@ Get-History
 # To clear the history of commands executed in shell
 Clear-History
 ```
+
+* Add `-WhatIf` flag at the end of the cmdlet to know what exactly the current executing command will do.

@@ -15,6 +15,7 @@
 - [Collections](collections.md)
 - [Loops](loops.md)
 - [Functions](functions.md)
+- [Processes and Services](process_and_service.md)
 
 ## References
 [Microsoft PowerSehll Resource](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting?view=powershell-6)
